@@ -1,7 +1,6 @@
 # EX-10 : IMPLEMENTATION OF CLASSICAL PLANNING ALGORITHM 
 
-## NAME : AGASH S
-## REGISTER NUMBER : 212224040014
+
 
 ## AIM : 
  To implement the classical planning algorithm using python.
